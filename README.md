@@ -44,11 +44,6 @@ Add your OpenAI API key and WolframAlpha App ID in the code.
 How to Use
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/virtual-assistant.git
-cd virtual-assistant
-Run the script:
 
 bash
 Copy code
